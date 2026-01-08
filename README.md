@@ -11,5 +11,7 @@ This repository contains my Python practice exercises, suitable for **beginners*
 
 - [pandas](https://pandas.pydata.org/) — for data manipulation and analysis  
 - [NumPy](https://numpy.org/) — for numerical computing
+- [SymPy](https://www.sympy.org/) — for symbolic mathematics and algebraic computations
+
 
 
