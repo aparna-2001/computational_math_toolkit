@@ -3,9 +3,15 @@
 This repository contains my Python practice exercises, suitable for **beginners**, to learn how to implement **mathematics concepts** such as:
 
 - Linear Algebra
+     -matrix properties
+          -Determinant
+          -Inverse
+          -Rank
+          -Eigen values and Eigen vectors
 - Calculus
 - Probability
 - Statistics
+        -Principal component analysis(PCA)
 
 ## Libraries Used
 
