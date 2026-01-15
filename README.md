@@ -12,6 +12,7 @@ This repository contains my Python practice exercises, suitable for **beginners*
 - Probability
 - Statistics
         -Principal component analysis(PCA)
+-Linear regression
 
 ## Libraries Used
 
